@@ -125,6 +125,7 @@ body._lock {
     margin-bottom: 100px;
 }
 .page__title {
+    color: #0057b7;
     font-size: 64px;
     margin: 283px 0px 0px 0px;
     text-align: center;
@@ -136,6 +137,11 @@ body._lock {
     color: var(--text-color);;
 }
 .typed {
+    color: #ffd700;
+    text-align: center;
+}
+.typed2 {
+    color: #ffd700;
     text-align: center;
 }
 .page__sub-title {
